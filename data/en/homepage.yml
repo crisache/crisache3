@@ -1,0 +1,73 @@
+---
+banner:
+  enable: true
+  bg_image: images/A8_2.jpg
+  title: Christophe Risacher
+  content: Astronomical instrumentation
+  button:
+    enable: true
+    label: List of projects
+    link: project
+about:
+  enable: true
+  title: About Me
+  description: |2-
+     Since 2018, I am the receiver group leader at the Institut de Radioastronomie Millimetrique (IRAM), France. I have been working for the past 20 years developing and using radioastronomical instrumentation on several telescopes - HIFI/Herschel, APEX, IRAM 30m, IRAM NOEMA, Onsala and SOFIA.
+
+    I received the M.Sc. degree from l'École Supérieure d'Électricité (Supélec), Gif-sur-Yvette, France, in 1998, and the Ph.D. degree from Chalmers University of Technology, Göteborg, Sweden, in 2005. Since 1998, I worked at various radio astronomy observatories developing novel instrumentation and supporting observations. Among those are the IRAM 30 m telescope in Granada, Spain, the Chalmers University of Technology with the Onsala Observatory, Sweden, the Apex Telescope with the European Southern Observatory, the HIFI instrument with the Herschel Observatory. From 2011 until 2018, I worked at the Max Planck Institut für Radioastronomie in Bonn, Germany as a project manager responsible for the development of the upGREAT array receivers for the SOFIA NASA/DLR airborne observatory
+  image: images/crisache_apex.jpg
+portfolio:
+  enable: true
+  bg_image: images/sofia_2.jpg
+  title: How to reach me
+  content: " address 1 is : \n\n contact per email /  "
+  button:
+    enable: true
+    label: View Works
+    link: project
+service:
+  enable: true
+cta:
+  enable: true
+  bg_image: images/grenoble.jpg
+  title: to contact me
+  content: 'Please fill the form '
+  button:
+    enable: true
+    label: Pour me contacter
+    link: contact
+funfacts:
+  enable: true
+  title: Some observatories
+  description: Some examples of observatories located on extreme locations
+  funfact_item:
+  - icon: ion-stats-bars
+    name: Instruments commissioned
+    count: "13"
+  - icon: ion-leaf
+    name: Articles Written
+    count: "98"
+  - icon: ion-flag
+    name: Projects Completed
+    count: "125"
+  - icon: ion-ios-timer-outline
+    name: Combined Projects
+    count: "200"
+  testimonial_slider:
+  - name: 'Herschel satellite '
+    image: images/herschel.jpg
+    designation: Herschel/HIFI instrument
+    content: HIFI was the heterodyne instrument onboard the Herschel satellite
+  - name: APEX Telescope
+    image: images/apex.png
+    designation: 12m submm telescope locate on the Chajnantor Plateau at 5100m
+    content: 'Pathfinder telescope which started operation in 2005 '
+  - name: SOFIA telescope
+    image: images/sofia_2.jpg
+    designation: Infrared airborne telescope
+    content: 2.5 m telescope mountrd on an a Boeing 747 operated by NASA - DLR
+  - name: NOEMA observatory
+    image: images/noema.jpg
+    designation: 'millimeter interferometer '
+    content: Largest millimeter interferometer located in the northern hemisphere.
+      It is comprised of 10 atennas of 15m diameter each
